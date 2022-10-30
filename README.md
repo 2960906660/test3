@@ -79,7 +79,7 @@ npm run start
 ![输入图片说明](https://raw.githubusercontent.com/hong00271/my-img/master/2022/10/30/EYacarveBTjCe4Um.png)
 
 -  在User页面可以展示当前用户所有已经上传的文件，并可以对其进行删除或查看具体信息
-![输入图片说明](https://raw.githubusercontent.com/hong00271/my-img/master/2022/10/30/wZ9qeDfZY9fgT9vK.png)
+![输入图片说明](https://github.com/2960906660/my_image/blob/main/usr.png?raw=true)
 
 -  在检索页面可以根据文件名称或者Hash，在IPaFS系统中检索到对应的文献并下载或是预览
-![输入图片说明](https://raw.githubusercontent.com/hong00271/my-img/master/2022/10/30/9ch8g2KxED74yhmx.png)
+![输入图片说明](https://github.com/2960906660/my_image/blob/main/topic.png?raw=true)
