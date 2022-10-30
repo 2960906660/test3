@@ -76,9 +76,11 @@ npm run start
 
 - 应用首页，可以选择本地磁盘中的文献文件发送到IPaFS系统中，文献发送后，系统会返回记录该次上传信息的区块和交易信息
 ![输入图片说明](https://raw.githubusercontent.com/hong00271/my-img/master/2022/10/30/EYacarveBTjCe4Um.png)
+<br>
 
 -  在User页面可以展示当前用户所有已经上传的文件，并可以对其进行删除或查看具体信息
 ![输入图片说明](https://github.com/2960906660/my_image/blob/main/usr.png?raw=true)
+<br>
 
 -  在检索页面可以根据文件名称或者Hash，在IPaFS系统中检索到对应的文献并下载或是预览
 ![输入图片说明](https://github.com/2960906660/my_image/blob/main/topic.png?raw=true)
